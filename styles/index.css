@@ -25,6 +25,12 @@ li {
     list-style: none;
 }
 
+h4 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.275rem;
+    color: var(--bs-emphasis-color);
+}
+
 /* Layout for admin dashboard */
 
 .wrapper {
