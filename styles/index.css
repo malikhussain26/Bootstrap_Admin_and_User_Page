@@ -149,3 +149,13 @@ a.sidebar-link {
     max-width: 150px;
     width: 100%;
 }
+
+/* Footer */
+
+@media (max-width:767.98px) {
+    .navbar,
+    footer {
+        width: 100vw;
+        
+    }
+}
